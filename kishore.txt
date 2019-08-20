@@ -1,1 +1,6 @@
+
+
 Hi this is my first git
+
+
+Trying to push this code to git
